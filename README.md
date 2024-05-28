@@ -16,3 +16,6 @@ Additionally, we utilized ARABERT, a BERT-based model from Hugging Face, to furt
 - `Preprocessing/`: Jupyter notebooks for the data cleaning process.
 - `Web App/`: Contains the web app script for deployment.
 
+## WebApp
+
+![WebApp Video](https://drive.google.com/file/d/1wdt8hxwRWwiEsAmhwFH25xBUNe8bNZPE/view?usp=drive_link)
