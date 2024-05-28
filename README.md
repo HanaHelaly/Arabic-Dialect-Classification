@@ -18,4 +18,5 @@ Additionally, we utilized ARABERT, a BERT-based model from Hugging Face, to furt
 
 ## WebApp
 
+The Web application for the AraBert Based Model using Streamlit:
 [WebApp Video](https://drive.google.com/file/d/10d4FITwAbOb2D78EsXZbAiY_SCZFw3_u/view?usp=drive_link)
