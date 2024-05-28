@@ -18,4 +18,4 @@ Additionally, we utilized ARABERT, a BERT-based model from Hugging Face, to furt
 
 ## WebApp
 
-[WebApp Video](https://drive.google.com/file/d/1wdt8hxwRWwiEsAmhwFH25xBUNe8bNZPE/view?usp=drive_link)
+[WebApp Video](https://drive.google.com/file/d/10d4FITwAbOb2D78EsXZbAiY_SCZFw3_u/view?usp=drive_link)
